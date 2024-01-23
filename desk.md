@@ -10,3 +10,6 @@
 - Do you have a distribution plan in place for your product or service in targetted markets?
 - Do you know how you intend to market your product internationally
 - Can you share what your immediate business needs are?
+
+  ## Mind map showing evaluated potential Diagnostic Tool factors
+  ![Diagnostic MindMap factors](diagnostic_mind.jpeg)
