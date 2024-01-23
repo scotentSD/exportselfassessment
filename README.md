@@ -3,10 +3,10 @@
 ##  Users and their needs
 
 - [Desk Research](desk.md)
-- [Needs](needs.md)
 - [Personas](personas.md)
+- [Needs](needs.md)
 - [Ethics plan](ethics.md)
-- 
+
 
 ## Problem
 - The team has been brought together to evaluate and pilot the use of an Export Self Assessment diagnostic tool
