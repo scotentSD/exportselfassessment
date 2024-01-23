@@ -1,13 +1,50 @@
 # Export Self Assessment
 
-##  Improvements
+##  Users and their needs
 
-- [xxx](#)
-- [yyy](#)
-- [zzz](#)
+- [Desk Research](desk.md)
+- [Personas](Personas.md)
+- [Needs](Needs.md)
+- [Ethics plan](ethics.md)
+
+## Problem
+- 
+
+## Experience
 
 
-## Research timeline
+## Right first time
+
+
+## Inclusion
+
+
+## The Team
+
+
+## Changes and Releases
+
+
+## Testing
+
+
+## Data, Privacy & Security
+
+
+## Metrics
+
+
+## Technology
+
+
+## Transparency and Open Source
+
+
+## Standards and Reuse
+
+
+
+### Research timeline
 - [ooo](#)
 
 ## Resources
