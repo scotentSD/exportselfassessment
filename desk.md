@@ -12,7 +12,7 @@
 - Progress indicators are expected
 - "Does Not Apply" option is needed in large question sets to allow customers to condidently ignore irelevant questions
 - Tools still need to have enough visual appeal to make people "want" to use and progress through them.
-- Vague headings are a turn-off (re-infocing the "Too Genric" coment)
+- Vague headings are a turn-off (reinforcing the "Too Genric" coment)
 
 
 ## 2015: Questions from previous Export Tool
