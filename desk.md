@@ -8,7 +8,7 @@
 
   
 
-This tool highlighted that:
+### This tool highlighted that:
 
 - Diagnostic tools can suffer from being too generic for customers
 - Progress indicators are expected
