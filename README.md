@@ -3,8 +3,8 @@
 ##  Users and their needs
 
 - [Desk Research](desk.md)
-- [Personas](Personas.md)
-- [Needs](Needs.md)
+- [Personas](personas.md)
+- [Needs](needs.md)
 - [Ethics plan](ethics.md)
 
 ## Problem
