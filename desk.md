@@ -6,6 +6,8 @@
 
 - [Innovation Toolkit - ReadinessTool](/files/2021_03_25_InnovationToolit.pdf)
 
+  
+
 This tool highlighted that:
 
 - Diagnostic tools can suffer from being too generic for customers
