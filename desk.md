@@ -5,6 +5,8 @@
 Alpha Testing
 **
 
+- [Innovation Toolkit - ReadinessTool](/files/2021_03_25_InnovationToolit.pdf)
+
 
 
 
