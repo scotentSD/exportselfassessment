@@ -16,17 +16,30 @@
 
 ## Experience
 
+- ooo
+
+
 
 ## Right first time
+
+- ooo
+
 
 
 ## Inclusion
 
+- ooo
+
+
 
 ## The Team
-https://github.com/scotentSD/exportselfassessment/blob/master/README.md
+
+- ooo
 
 ## Changes and Releases
+
+- ooo
+
 
 
 ## Testing
@@ -39,17 +52,34 @@ Concepts and prototpes will be tested across 4 audiences
 
 ## Data, Privacy & Security
 
+- ooo
+
+
 
 ## Metrics
+
+- ooo
+
 
 
 ## Technology
 
+- ooo
+
+
 
 ## Transparency and Open Source
 
+- Project assets will be published on this page (with no personal or confidential information): https://scotentsd.github.io/exportselfassessment/
+
+
+
+
 
 ## Standards and Reuse
+
+- ooo
+
 
 
 
