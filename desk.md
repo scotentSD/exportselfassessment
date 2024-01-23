@@ -12,4 +12,4 @@
 - Can you share what your immediate business needs are?
 
   ## Mind map showing evaluated potential Diagnostic Tool factors
-  ![Diagnostic MindMap factors](../diagnostic_mind.jpeg)
+  ![Diagnostic MindMap factors](/files/diagnostic_mind.jpeg)
