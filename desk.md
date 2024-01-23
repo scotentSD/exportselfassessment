@@ -26,5 +26,5 @@
 - Do you know how you intend to market your product internationally
 - Can you share what your immediate business needs are?
 
-  ## 2015 Diagnostic Tool: Impact Map
-  ![Diagnostic MindMap factors](/files/diagnostic_mind.jpeg)
+## 2015 Diagnostic Tool: Impact Map
+![Diagnostic MindMap factors](/files/diagnostic_mind.jpeg)
