@@ -7,7 +7,13 @@ Alpha Testing
 
 - [Innovation Toolkit - ReadinessTool](/files/2021_03_25_InnovationToolit.pdf)
 
+This tool highlighted that:
 
+- Diagnostic tools can suffer from being too generic for customers
+- Progress indicators are expected
+- "Does Not Apply" option is needed in lareg question sets to allow customers to condidently ignore irelevant questions
+- Tools still need to have enough visual appeal to make people "want" to use and progress through them.
+- Vague headings are a turn-off (re-infocing the "Too Genric" coment)
 
 
 ## 2015: Questions from previous Export Tool
