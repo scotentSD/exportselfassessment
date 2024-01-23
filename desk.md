@@ -3,10 +3,8 @@
 ## 2021 SE Business Toolkit Site
 ### Innovation Readiness Toolkit: Alpha Testing
 
-
 - [Innovation Toolkit - ReadinessTool](/files/2021_03_25_InnovationToolit.pdf)
 
-  
 
 ### This tool highlighted that:
 
