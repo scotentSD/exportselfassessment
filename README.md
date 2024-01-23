@@ -71,7 +71,7 @@ Concepts and prototpes will be tested across 4 audiences
 
 ## Transparency and Open Source
 
-- Project assets will be published on this page (with no personal or confidential information): https://scotentsd.github.io/exportselfassessment/
+- Project assets will be published on this [page](https://scotentsd.github.io/exportselfassessment/) (with no personal or confidential information)
 
 
 
