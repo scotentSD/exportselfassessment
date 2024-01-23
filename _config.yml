@@ -68,6 +68,6 @@ exclude:
 theme: jekyll-theme-slate
 
 plugins:
-  - jekyll-relative-links
+ # - jekyll-relative-links
   
   
