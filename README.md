@@ -39,7 +39,7 @@
 
 ## Changes and Releases
 
-- ooo
+- [Changes made due to Feedback & Testing](/changes.md)
 
 
 
