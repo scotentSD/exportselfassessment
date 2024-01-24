@@ -90,4 +90,5 @@ Concepts and prototpes will be tested across 4 audiences
 
 ## Resources
 - [Digital Scotland Service Standard](https://digitalsupporthub.service.gov.scot/s/article/digital-scotland-service-standard)
+- [posts](posts.md)
 
