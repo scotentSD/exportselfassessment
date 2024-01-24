@@ -1,5 +1,12 @@
 # Export Self Assessment
 
+## Problem to be solved
+- The team has been brought together to evaluate and pilot the use of an Export Self Assessment diagnostic tool
+- This will be evaluated with 3 audiences
+    - Pilot Project companies
+    - Representatives from relevant Scottish organisations
+    - A pool of Scottish Companies that have been identified as Pre or Early stage exporters    
+
 ##  Users and their needs
 
 - [Desk Research](desk.md)
@@ -8,12 +15,12 @@
 - [Ethics plan](ethics.md)
 
 
-## Problem
-- The team has been brought together to evaluate and pilot the use of an Export Self Assessment diagnostic tool
-- This will be evaluated with 3 audiences
-    - Pilot Project companies
-    - Representatives from relevant Scottish organisations
-    - A pool of Scottish Companies that have been identified as Pre or Early stage exporters    
+
+
+
+### Research timeline
+- [Research Timeline](research.md)
+
 
 ## Experience
 
@@ -83,10 +90,6 @@ Concepts and prototpes will be tested across 4 audiences
 - ooo
 
 
-
-
-### Research timeline
-- [Research Timeline](research.md)
 
 ## Resources
 - [Digital Scotland Service Standard](https://digitalsupporthub.service.gov.scot/s/article/digital-scotland-service-standard)
