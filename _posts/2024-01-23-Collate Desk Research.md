@@ -15,5 +15,6 @@ Discovered relevant research from projects:
     - Export Needs and Service mapppings were developed that are "in part" relevant to this project 
 - **2021: Innovation Toolkit**
     - Investigated and built a Diagnostic tool that has many similarities to this projects proposed solution
+
 ## Documents
 - [Desk Research](https://scotentsd.github.io/exportselfassessment/desk/)
