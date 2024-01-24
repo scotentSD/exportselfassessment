@@ -15,6 +15,10 @@
 - Vague headings are a turn-off (reinforcing the "Too Genric" comment)
 
 
+## 2020 Export Research 
+- [Export Theme & Element prioritisation](/files/Trade_element_and_theme_priritisations.pdf)
+
+
 ## 2015: Questions from previous Export Tool
 
 - Is your product or service "Export Ready"?
