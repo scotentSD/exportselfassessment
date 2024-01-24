@@ -24,7 +24,7 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {% include breadcrumbs.html %}
-        <h1 id="post_title">{% if page.tltitle  %}{{ page.tltitle }}{% endif %}{% if page.type_of_event %} :: {{page.type_of_event}}{% endif %}</h1>
+        <h1 id="post_rtitle">{% if page.rtitle  %}{{ page.rtitle }}{% endif %}{% if page.type_of_event %} :: {{page.type_of_event}}{% endif %}</h1>
         {{ content }}
       </section>
     </div>
