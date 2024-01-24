@@ -17,7 +17,7 @@
 
 ## 2020 Export Research 
 
-### Live exporting section
+### Live exporting section on Scottish Enterprise website
 - [Exports and international markets](https://www.scottish-enterprise.com/support-for-businesses/exports-and-international-markets)
 
 ## Discovery 2020
