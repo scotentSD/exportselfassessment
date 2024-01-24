@@ -29,7 +29,7 @@
 
 ## Inclusion
 
-- ooo
+- We ensure that every test round includes at least one person ....
 
 
 
