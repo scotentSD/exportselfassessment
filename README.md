@@ -39,7 +39,7 @@
 
 ## Changes and Releases
 
-- [Changes made due to Feedback & Testing](/changes.md)
+- [Changes made due to Feedback & Testing](/files/ChangesExportTool.pdf)
 
 
 
