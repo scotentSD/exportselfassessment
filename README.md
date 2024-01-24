@@ -18,7 +18,7 @@
 
 
 
-### Research timeline
+## Research timeline
 - [Research Timeline](research.md)
 
 
