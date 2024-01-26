@@ -13,7 +13,7 @@
 - Identify level of current engagement with public sector (i.e. Are they already talking to a trade advisor somehere...)
 - Identify what is available at that company stage
 - Is there a gap that needs to be filled for any of these companies
-- Identify Support or Signpost inflection points
+- Identify Support or Signpost inflection points (Which Agency is most useful to them)
 
 
 ##  Users and their needs
