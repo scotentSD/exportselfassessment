@@ -11,8 +11,9 @@
 
 - Identify company stage
 - Identify level of current engagement with public sector (i.e. Are they already talking to a trade advisor somehere...)
-- Identify hat is available at that company stage
+- Identify what is available at that company stage
 - Is there a gap that needs to be filled for any of these companies
+- Identify Support or Signpost inflection points
 
 
 ##  Users and their needs
