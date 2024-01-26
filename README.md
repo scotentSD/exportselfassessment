@@ -5,7 +5,15 @@
 - This will be evaluated with 3 audiences
     - Pilot Project companies
     - Representatives from relevant Scottish organisations
-    - A pool of Scottish Companies that have been identified as Pre or Early stage exporters    
+    - A pool of Scottish Companies that have been identified as Pre or Early stage exporters
+ 
+### Early considerations
+
+- Identify company stage
+- Identify level of current engagement with public sector (i.e. Are they already talking to a trade advisor somehere...)
+- Identify hat is available at that company stage
+- Is there a gap that needs to be filled for any of these companies
+
 
 ##  Users and their needs
 
