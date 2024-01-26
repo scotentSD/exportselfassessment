@@ -15,6 +15,9 @@
 - [Ethics plan](ethics.md)
 
 
+## Research Questions
+- How would you start getting ready to export
+- How do you find & collate all of your export activities
 
 
 
